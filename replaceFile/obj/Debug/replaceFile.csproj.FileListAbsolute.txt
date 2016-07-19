@@ -1,0 +1,18 @@
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\bin\Debug\ConsoleApplication1.exe
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\obj\Debug\replaceFile.csprojResolveAssemblyReference.cache
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\obj\Debug\ConsoleApplication1.exe
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Aga\Desktop\replaceFile\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Aga\Desktop\replaceFile\obj\Debug\ConsoleApplication1.exe
+C:\Users\Aga\Desktop\replaceFile\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Aga\Desktop\replaceFile\bin\Debug\ConsoleApplication1.exe
+C:\Users\Aga\Desktop\replaceFile\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Aga\Desktop\replaceFile\obj\Debug\replaceFile.csprojResolveAssemblyReference.cache
+D:\akademia c#\finalnie\replaceFile\bin\Debug\ConsoleApplication1.exe.config
+D:\akademia c#\finalnie\replaceFile\obj\Debug\ConsoleApplication1.exe
+D:\akademia c#\finalnie\replaceFile\obj\Debug\ConsoleApplication1.pdb
+D:\akademia c#\finalnie\replaceFile\bin\Debug\ConsoleApplication1.exe
+D:\akademia c#\finalnie\replaceFile\bin\Debug\ConsoleApplication1.pdb
+D:\akademia c#\finalnie\replaceFile\obj\Debug\replaceFile.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Aga\Desktop\c#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Aga\Desktop\c#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Aga\Desktop\c#\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Aga\Desktop\c#\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Aga\Desktop\c#\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Aga\Desktop\c#\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Aga\Desktop\c# do wyslania\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Aga\Desktop\c# do wyslania\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Aga\Desktop\c# do wyslania\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\obj\Debug\ConsoleApplication1.exe
+C:\Users\Aga\Desktop\c# do wyslania\replaceFile\obj\Debug\ConsoleApplication1.pdb
